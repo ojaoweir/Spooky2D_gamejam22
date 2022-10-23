@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19a676948455224e83f7fa727a8b486, type: 3}
+  m_Name: Song1
+  m_EditorClassIdentifier: 
+  notes:
+  - beatTime:
+      minutes: 0
+      seconds: 1
+      milliseconds: 0
+    lane: 0
+  - beatTime:
+      minutes: 0
+      seconds: 2
+      milliseconds: 0
+    lane: 2
+  - beatTime:
+      minutes: 0
+      seconds: 3
+      milliseconds: 0
+    lane: 1
+  - beatTime:
+      minutes: 0
+      seconds: 4
+      milliseconds: 0
+    lane: 3
+  - beatTime:
+      minutes: 0
+      seconds: 5
+      milliseconds: 0
+    lane: 0
+  - beatTime:
+      minutes: 0
+      seconds: 6
+      milliseconds: 0
+    lane: 2
+  - beatTime:
+      minutes: 0
+      seconds: 7
+      milliseconds: 0
+    lane: 1
+  song: {fileID: 8300000, guid: 57b181caedc599d4d95dd666a1a8c6c6, type: 3}
+  timeNotesSpawnBeforeBeat: 2

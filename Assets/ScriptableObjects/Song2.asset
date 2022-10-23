@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19a676948455224e83f7fa727a8b486, type: 3}
+  m_Name: Song2
+  m_EditorClassIdentifier: 
+  notes:
+  - beatTime:
+      minutes: 0
+      seconds: 4
+      milliseconds: 669
+    lane: 0
+  - beatTime:
+      minutes: 0
+      seconds: 9
+      milliseconds: 618
+    lane: 0
+  - beatTime:
+      minutes: 0
+      seconds: 19
+      milliseconds: 820
+    lane: 0
+  - beatTime:
+      minutes: 0
+      seconds: 24
+      milliseconds: 466
+    lane: 0
+  - beatTime:
+      minutes: 0
+      seconds: 39
+      milliseconds: 620
+    lane: 0
+  - beatTime:
+      minutes: 0
+      seconds: 44
+      milliseconds: 225
+    lane: 0
+  - beatTime:
+      minutes: 1
+      seconds: 4
+      milliseconds: 570
+    lane: 0
+  - beatTime:
+      minutes: 1
+      seconds: 9
+      milliseconds: 0
+    lane: 0
+  - beatTime:
+      minutes: 0
+      seconds: 40
+      milliseconds: 245
+    lane: 2
+  repeatingNotes:
+  - startbeatTime:
+      minutes: 0
+      seconds: 1
+      milliseconds: 893
+    endbeatTime:
+      minutes: 0
+      seconds: 39
+      milliseconds: 250
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 1
+      milliseconds: 236
+    lane: 1
+  - startbeatTime:
+      minutes: 0
+      seconds: 29
+      milliseconds: 410
+    endbeatTime:
+      minutes: 0
+      seconds: 50
+      milliseconds: 0
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 19
+      milliseconds: 800
+    lane: 0
+  - startbeatTime:
+      minutes: 0
+      seconds: 59
+      milliseconds: 404
+    endbeatTime:
+      minutes: 1
+      seconds: 40
+      milliseconds: 0
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 19
+      milliseconds: 800
+    lane: 0
+  - startbeatTime:
+      minutes: 1
+      seconds: 23
+      milliseconds: 800
+    endbeatTime:
+      minutes: 1
+      seconds: 29
+      milliseconds: 0
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 5
+      milliseconds: 0
+    lane: 0
+  - startbeatTime:
+      minutes: 1
+      seconds: 43
+      milliseconds: 600
+    endbeatTime:
+      minutes: 1
+      seconds: 49
+      milliseconds: 0
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 5
+      milliseconds: 0
+    lane: 0
+  - startbeatTime:
+      minutes: 0
+      seconds: 45
+      milliseconds: 119
+    endbeatTime:
+      minutes: 1
+      seconds: 19
+      milliseconds: 0
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 1
+      milliseconds: 236
+    lane: 1
+  - startbeatTime:
+      minutes: 0
+      seconds: 0
+      milliseconds: 961
+    endbeatTime:
+      minutes: 0
+      seconds: 39
+      milliseconds: 500
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 2
+      milliseconds: 470
+    lane: 2
+  - startbeatTime:
+      minutes: 0
+      seconds: 1
+      milliseconds: 564
+    endbeatTime:
+      minutes: 0
+      seconds: 40
+      milliseconds: 500
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 2
+      milliseconds: 470
+    lane: 3
+  - startbeatTime:
+      minutes: 0
+      seconds: 45
+      milliseconds: 500
+    endbeatTime:
+      minutes: 1
+      seconds: 19
+      milliseconds: 700
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 2
+      milliseconds: 470
+    lane: 2
+  - startbeatTime:
+      minutes: 0
+      seconds: 46
+      milliseconds: 103
+    endbeatTime:
+      minutes: 1
+      seconds: 19
+      milliseconds: 700
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 2
+      milliseconds: 470
+    lane: 3
+  - startbeatTime:
+      minutes: 0
+      seconds: 39
+      milliseconds: 626
+    endbeatTime:
+      minutes: 0
+      seconds: 43
+      milliseconds: 900
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 1
+      milliseconds: 235
+    lane: 3
+  - startbeatTime:
+      minutes: 0
+      seconds: 41
+      milliseconds: 486
+    endbeatTime:
+      minutes: 0
+      seconds: 44
+      milliseconds: 500
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 1
+      milliseconds: 270
+    lane: 1
+  - startbeatTime:
+      minutes: 0
+      seconds: 2
+      milliseconds: 125
+    endbeatTime:
+      minutes: 0
+      seconds: 39
+      milliseconds: 250
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 5
+      milliseconds: 0
+    lane: 1
+  - startbeatTime:
+      minutes: 0
+      seconds: 46
+      milliseconds: 587
+    endbeatTime:
+      minutes: 1
+      seconds: 19
+      milliseconds: 250
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 5
+      milliseconds: 0
+    lane: 1
+  - startbeatTime:
+      minutes: 1
+      seconds: 19
+      milliseconds: 843
+    endbeatTime:
+      minutes: 1
+      seconds: 46
+      milliseconds: 600
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 1
+      milliseconds: 233
+    lane: 1
+  - startbeatTime:
+      minutes: 1
+      seconds: 20
+      milliseconds: 451
+    endbeatTime:
+      minutes: 1
+      seconds: 46
+      milliseconds: 600
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 1
+      milliseconds: 233
+    lane: 2
+  - startbeatTime:
+      minutes: 1
+      seconds: 20
+      milliseconds: 759
+    endbeatTime:
+      minutes: 1
+      seconds: 46
+      milliseconds: 600
+    timeBetweenBeats:
+      minutes: 0
+      seconds: 1
+      milliseconds: 233
+    lane: 3
+  song: {fileID: 8300000, guid: d2898e14064fc2742ab35ae5e6064df5, type: 3}
+  timeNotesSpawnBeforeBeat: 1
